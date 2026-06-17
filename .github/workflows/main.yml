@@ -1,7 +1,6 @@
 name: NodeJs
 
 on:
-  push:
   workflow_dispatch:
     inputs:
       environment:
